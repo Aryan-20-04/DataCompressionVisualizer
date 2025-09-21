@@ -1,7 +1,9 @@
 ## DataCompression&Visualizer
 
-```
-DataCompression&Visualizer is an interactive visualization tool for binary encoding trees used in data compression algorithms. It animates the construction of a binary tree from a set of characters and their frequencies, helping users intuitively understand how codes are assigned to minimize storage space.
+```bash
+DataCompression&Visualizer is an interactive visualization tool for binary encoding trees used in data compression algorithms.
+It animates the construction of a binary tree from a set of characters and their frequencies,
+helping users intuitively understand how codes are assigned to minimize storage space.
 ```
 
 ### Features
